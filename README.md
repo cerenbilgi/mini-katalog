@@ -19,7 +19,7 @@ Kahve ve nitelikli kahve ekipmanlarını inceleyebileceğiniz, ürün detayları
 
 1. Depoyu bilgisayarınıza klonlayın:
 ```bash
-git clone [https://github.com/cerenbilgi/mini_katalog.git](https://github.com/cerenbilgi/mini_katalog.git)
+git clone [https://github.com/cerenbilgi/mini-katalog.git](https://github.com/cerenbilgi/mini-katalog.git)
 cd mini_katalog
 ```
 
